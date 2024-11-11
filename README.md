@@ -18,3 +18,9 @@ This project is a simple C# application that prints "Hello, World!" when execute
 
    ```bash
    docker run kamartinez/hola_mundo_ci
+
+## DockerHub
+- You can find my image on DockerHub at the following link:
+
+ ```bash
+   https://hub.docker.com/repository/docker/kamartinez/hola_mundo_ci/general
